@@ -1,3 +1,3 @@
 #Github
 
-Este é um repositório para ensinar git
+Este é um repositório teste para ensinar como o Git funciona
