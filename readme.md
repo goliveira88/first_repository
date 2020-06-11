@@ -1,5 +1,3 @@
 #Github
 
-Este é um repositório teste para ensinar como o Git funcion
-
-O curso é bom!
+Este é um repositório teste para aprender como o Git/Github funciona.
